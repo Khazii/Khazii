@@ -19,6 +19,7 @@
 - Other DBs such as: Firebase, SQL, MySQL & PostgreSQL
 - TypeScript enthusiast
 - **Other languages**: Godot Engine, Lua, C#, C++
+- Using Figma & creating mockups in Figma
 
 ## Career Highlights
 - https://isla.health/

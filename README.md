@@ -14,8 +14,8 @@
   - Custom Themes
 
 ## Extra Skills
-- Vercel deployment framework
-- Supabase as a Firebase alternative
+- Experience using Vercel & Netlify deployment frameworks
+- Experience using Supabase as a Firebase alternative
 - Other DBs such as: Firebase, SQL, MySQL & PostgreSQL
 - TypeScript enthusiast
 - **Other languages**: Godot Engine, Lua, C#, C++
@@ -46,5 +46,9 @@
 
 ## Anything Else
 - I am active in the Angular Community Discord servers usually helping users with Angular issues
-- I was one of the world first level 85 Priest (Realm first - Tarren Mill) on WoW's Cataclysm expansion. 
+- I was one of the world first level 85 Priest (Realm first - Tarren Mill) on WoW's Cataclysm expansion.
+
+#### Things I use but keep losing the bookmark for so I'll put them here so I have them somewhere
+- https://app.eraser.io/
+- https://www.notion.so/
 

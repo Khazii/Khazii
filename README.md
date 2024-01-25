@@ -36,7 +36,7 @@
 - https://event-jot.vercel.app/
   - **Stack**: Angular 16+ / Supabase / Vercel
 - https://origin-environmental.com/
-  - Pure HTML / CSS, self hosted on a Linux box
+  - Angular 10+ / Custom CSS, self hosted on a Linux box
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oliver-brennan-414059134/)

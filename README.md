@@ -1,7 +1,7 @@
 # Hello, I'm Ollie 👋
 
 ## About Me
-👨‍💻 I'm a passionate full-stack web developer specializing in Angular & general frontend.
+👨‍💻 I'm a passionate full-stack web developer specialising in Angular & general frontend.
 
 ## Main Proficiencies
 - Angular v4 - current
@@ -20,6 +20,7 @@
 - TypeScript enthusiast
 - **Other languages**: Godot Engine, Lua, C#, C++
 - Using Figma & creating mockups in Figma
+- I apologise to ChatGPT when I get frustrated with it
 
 ## Career Highlights
 - https://isla.health/

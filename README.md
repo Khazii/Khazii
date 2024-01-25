@@ -36,12 +36,12 @@
 - https://event-jot.vercel.app/
   - **Stack**: Angular 16+ / Supabase / Vercel
 - https://origin-environmental.com/
-  - Dirty hard coded HTML, self hosted on a Linux box
+  - Pure HTML / CSS, self hosted on a Linux box
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oliver-brennan-414059134/)
 - [Twitter](https://twitter.com/olliebrennan_)
-- [Email](oliverbrennan05@gmail.com)
+- [Email](mailto:oliverbrennan05@gmail.com)
 
 ## Anything Else
 - I am active in the Angular Community Discord servers usually helping users with Angular issues

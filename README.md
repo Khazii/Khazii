@@ -40,7 +40,7 @@
 - https://origin-environmental.com/
   - Angular 10+ / Custom CSS, self hosted on a Linux box
 
-## Connect with Me
+## Socials 
 - [LinkedIn](https://www.linkedin.com/in/oliver-brennan-414059134/)
 - [Twitter](https://twitter.com/olliebrennan_)
 - [Email](mailto:oliverbrennan05@gmail.com)

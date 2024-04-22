@@ -48,7 +48,3 @@
 ## Anything Else
 - I am active in the Angular Community Discord servers usually helping users with Angular issues
 
-### Things I use but keep losing the bookmark for so I'll put them here so I have them somewhere
-- https://app.eraser.io/
-- https://www.notion.so/
-
